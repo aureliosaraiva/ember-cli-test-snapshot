@@ -1,5 +1,7 @@
 # init
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aureliosaraiva/ember-cli-test-snapshot.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
